@@ -1,4 +1,4 @@
-package com.praj.news_aggregator.common.response;
+package com.praj.newsaggregator.common.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

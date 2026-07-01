@@ -1,4 +1,4 @@
-package com.praj.news_aggregator.exception;
+package com.praj.newsaggregator.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
 

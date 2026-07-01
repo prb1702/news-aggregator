@@ -1,6 +1,6 @@
-package com.praj.news_aggregator.exception;
+package com.praj.newsaggregator.exception;
 
-import com.praj.news_aggregator.common.response.ApiResponse;
+import com.praj.newsaggregator.common.response.ApiResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
